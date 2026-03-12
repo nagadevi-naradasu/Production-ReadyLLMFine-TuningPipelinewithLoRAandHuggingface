@@ -1,0 +1,16 @@
+torch
+transformers
+peft
+datasets
+accelerate
+bitsandbytes
+trl
+fastapi
+uvicorn
+wandb
+scikit-learn
+rouge-score
+evaluate
+python-multipart
+python-dotenv
+curl
